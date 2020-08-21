@@ -1,0 +1,114 @@
+<table align="center" border="0" cellpadding="2" cellspacing="0" style="width:600px">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="2" cellspacing="1" style="width:600px">
+				<thead>
+					<tr>
+						<th rowspan="4" scope="col"><img alt="" src="data:image/png;base64,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" style="float:left" /></th>
+						<th colspan="3" scope="col"><strong>Onderwijsweek 1 - Les 1</strong></th>
+					</tr>
+					<tr>
+						<td scope="col" style="text-align:left">Course naam</td>
+						<td scope="col" style="text-align:left">MANSE-NT</td>
+					</tr>
+					<tr>
+						<td scope="col" style="text-align:left">Studiejaar:</td>
+						<td scope="col" style="text-align:left">2020-2021</td>
+					</tr>
+					<tr>
+						<td scope="col" style="text-align:left">Profiel</td>
+						<td scope="col" style="text-align:left">ISM</td>
+					</tr>
+				</thead>
+				<tbody>
+				</tbody>
+			</table>
+
+			<table border="0" cellpadding="2" cellspacing="1" style="width:600px">
+				<thead>
+					<tr>
+						<th colspan="2" scope="col" style="background-color:#f1f1c1">Metagegevens les</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Docent(en)</td>
+						<td>Otto van der Pasch, Geert van Berkel, Eddie Vagevuur</td>
+					</tr>
+					<tr>
+						<td>Vak:</td>
+						<td>MANSE-NT</td>
+					</tr>
+					<tr>
+						<td>Datum aanpassing</td>
+						<td>4 juli 2020</td>
+					</tr>
+					<tr>
+						<td>Duur van de les</td>
+						<td>180 minuten</td>
+					</tr>
+					<tr>
+						<td>Klas</td>
+						<td>MANSE-A, MANSE-B, MANSE-C</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table border="0" cellpadding="2" cellspacing="1" style="width:600px">
+				<thead>
+					<tr>
+						<th colspan="2" scope="col" style="background-color:#f1f1c1">Lesopdracht</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><strong>Onderwerpen</strong></td>
+						<td><strong>Internet</strong>
+						<ul>
+							<li>Wat is een protocol?</li>
+							<li>Hoe ziet je thuisnetwerk eruit?</li>
+							<li>Hoe ziet een bedrijfsnetwerk eruit?</li>
+							<li>Netwerkcomponenten</li>
+							<li>Packet switching</li>
+							<li>Internet Model - OSI model</li>
+							<li>Bandbreedte; doorvoercapaciteit</li>
+						</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><strong>Globale omschrijving</strong></td>
+						<td>In deze les gaan we in op de werking van het internet.<br />
+						We beginnen in de tweede helft van de les met de applicatie laag van het OSI-model.</td>
+					</tr>
+					<tr>
+						<td><strong>Methode</strong></td>
+						<td>Discussie en opdrachten</td>
+					</tr>
+					<tr>
+						<td><strong>Werkwijze</strong></td>
+						<td>Discussie en opdrachten</td>
+					</tr>
+					<tr>
+						<td><strong>Paragrafen</strong></td>
+						<td>
+						<ul>
+							<li>1.1</li>
+							<li>1.2</li>
+							<li>1.3</li>
+							<li>1.4.1</li>
+							<li>1.5</li>
+							<li>1.8</li>
+						</ul>
+						</td>
+					</tr>
+					<tr>
+						<td><strong>Powerpoint</strong></td>
+						<td>Chapter_1_V7.01 MANSE-NA_V2020.pptx</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
