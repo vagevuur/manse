@@ -2,8 +2,8 @@ import socket
 
 msgFromClient = " Inhoud van het bericht van de client... "
 bytesToSend = str.encode(msgFromClient)
-serverAddressPort = ("172.16.89.131", 1234)
-bufferSize = 1024
+serverAddressPort = ("192.168.2.16", 1234)
+bufferSize = 181
 
 UDPClientSocket = socket.socket(family=socket.AF_INET, type=socket.SOCK_DGRAM)
 
