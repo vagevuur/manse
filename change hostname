@@ -1,0 +1,5 @@
+$ sudo hostname new-server-name-here
+$ sudo vim /etc/hostname
+$ sudo nano /etc/hosts
+  From: 127.0.1.1 old-host-name
+  To: 127.0.1.1 new-server-name-here. # If you don't change the name any sudo command will take a long time
